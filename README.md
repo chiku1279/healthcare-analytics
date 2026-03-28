@@ -68,6 +68,5 @@ Excel – Validation & ad-hoc analysis
 
 ## Dashboard Screenshots
 
-![Overview](images/dashboard_page_1.png)
-![Analysis](images/dashboard_page_2.png)
-![Patient View](images/dashboard_page_3.png)
+![Dashboard](dashboard-visual/dashboard_page_1.png)
+
