@@ -66,10 +66,8 @@ Python (Pandas, NumPy) – Data cleaning & preprocessing
 
 Excel – Validation & ad-hoc analysis
 
-## 📊 Hospital Dashboard
+## Dashboard Screenshots
 
-### Overview
 ![Overview](images/dashboard_page_1.png)
-
-### Analysis
 ![Analysis](images/dashboard_page_2.png)
+![Patient View](images/dashboard_page_3.png)
