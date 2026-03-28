@@ -14,7 +14,6 @@ Manual reporting takes 2 days
 
 Management wanted a data-driven solution to monitor ER performance and optimize resource allocation.
 
-![image alt](https://github.com/chiku1279/healthcare-analytics/blob/8319c90c52bd34100e3a9f6a0a9f8cf4594b999f/Dashboard%20Visual/dashboard_page_1.png)
 
 🔹 2. My Role & Responsibilities
 Extracted and analyzed 120,000+ ER patient records using SQL.
