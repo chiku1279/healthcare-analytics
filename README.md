@@ -1,68 +1,106 @@
-🎯 Project Explanation – Hospital Emergency Room (ER) Analytics
-“In my recent project, I worked as a Data Analyst for a Hospital Emergency Room analytics initiative focused on improving operational efficiency and patient wait time.”
+# 🏥 Hospital Analytics Dashboard
 
-🔹 1. Problem Statement
-The hospital was facing:
+## 📌 Overview
 
-High patient wait times during peak hours
+This project presents a comprehensive Hospital Analytics Dashboard built using Power BI. It focuses on analyzing patient data, hospital operations, and performance metrics to generate actionable insights that improve decision-making and overall efficiency.
 
-Delays in the admission-to-discharge process
+---
 
-Lack of real-time KPI visibility
+## 📊 1. Monthly View
 
-Manual reporting takes 2 days
+### 🔍 Description
 
-Management wanted a data-driven solution to monitor ER performance and optimize resource allocation.
+This section provides a detailed monthly analysis of hospital performance for a selected time period.
+
+### 📈 Key Metrics
+
+* Total number of patients
+* Average wait time
+* Patient satisfaction rate
+* Number of patients referred
+
+### 💡 Insights
+
+* Identifies peak patient load within the month
+* Tracks patient satisfaction trends
+* Helps in short-term planning and resource allocation
+
+---
+![image alt](https://github.com/chiku1279/healthcare-analytics/blob/39cd705a17c4abf2a470cc416e5b4c2558c45a9c/Dashboard%20Visual/dashboard_page_1.png)
+
+## 📊 2. Consolidated View
+
+### 🔍 Description
+
+This view provides a high-level overview of hospital data across multiple months or years.
+
+### 📈 Key Metrics
+
+* Total patient count over time
+* Admission vs non-admission rates
+* Department-wise referrals
+* Gender and age group distribution
+
+### 💡 Insights
+
+* Identifies long-term trends
+* Highlights busiest days and hours
+* Supports strategic decision-making
+
+---
+![image alt](https://github.com/chiku1279/healthcare-analytics/blob/39cd705a17c4abf2a470cc416e5b4c2558c45a9c/Dashboard%20Visual/dashboard_page_2.png)
 
 
-🔹 2. My Role & Responsibilities
-Extracted and analyzed 120,000+ ER patient records using SQL.
+## 📊 3. Patient View
 
-Cleaned and validated raw healthcare data using Python (Pandas) and Power Query.
+### 🔍 Description
 
-Designed a Star Schema data model for structured reporting.
+This section displays detailed patient-level data for deeper analysis.
 
-Built interactive Power BI dashboards with advanced DAX measures for KPIs.
+### 📈 Key Metrics
 
-Automated ETL workflows to reduce manual intervention.
+* Patient demographics
+* Admission details
+* Department referrals
+* Wait time per patient
 
-🔹 3. KPIs I Worked On
-Average Patient Wait Time
+### 💡 Insights
 
-Admission-to-Discharge Turnaround Time (TAT)
+* Enables granular analysis of patient records
+* Helps identify patterns in patient demographics
+* Useful for operational improvements
 
-Bed Occupancy Rate
+---
+![image alt](https://github.com/chiku1279/healthcare-analytics/blob/39cd705a17c4abf2a470cc416e5b4c2558c45a9c/Dashboard%20Visual/dashboard_page_3.png)
 
-Readmission Rate
+## 📊 4. Key Takeaways
 
-Daily & Monthly ER Patient Volume Trends
+### 🔍 Description
 
-Used DAX functions for:
+Summarizes the most important insights derived from the analysis.
 
-Time Intelligence (YoY growth, monthly trends)
+### 💡 Key Findings
 
-Rolling averages
+* High patient volume across the analyzed period
+* Moderate patient satisfaction levels
+* Majority of patients do not require referrals
+* Peak demand observed on weekends and specific hours
 
-Dynamic KPI indicators
+---
+![image alt](https://github.com/chiku1279/healthcare-analytics/blob/39cd705a17c4abf2a470cc416e5b4c2558c45a9c/Dashboard%20Visual/dashboard_page_4.png)
 
-🔹 4. Impact / Results
-Reduced report generation time from 2 days to 4 hours
+## 🛠️ Tools & Technologies
 
-Improved reporting accuracy by 30%
+* Power BI
+* Data Cleaning & Transformation
+* Data Visualization
+* Dashboard Development
 
-Reduced average ER wait time by 18% by identifying peak-hour bottlenecks
+---
 
-Reduced data preparation time by 50% through automation
+## 🎯 Conclusion
 
-🔹 5. Tools & Technologies Used
-SQL – Data extraction & performance optimization
+This project demonstrates the power of data analytics in healthcare by transforming raw data into meaningful insights. It helps improve patient care, optimize hospital operations, and support data-driven decision-making.
 
-Power BI & DAX – Dashboard & KPI development
+---
 
-Power Query – ETL & data transformation
-
-Power Pivot – Data modeling
-
-Python (Pandas, NumPy) – Data cleaning & preprocessing
-
-Excel – Validation & ad-hoc analysis
