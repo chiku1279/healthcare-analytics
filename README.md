@@ -67,6 +67,5 @@ Python (Pandas, NumPy) – Data cleaning & preprocessing
 Excel – Validation & ad-hoc analysis
 
 ## Dashboard Screenshots
-
-![Dashboard](dashboard-visual/dashboard_page_1.png)
+![Overview](images/dashboard_page_1.png)
 
