@@ -65,3 +65,11 @@ Power Pivot – Data modeling
 Python (Pandas, NumPy) – Data cleaning & preprocessing
 
 Excel – Validation & ad-hoc analysis
+
+## 📊 Hospital Dashboard
+
+### Overview
+![Overview](images/dashboard_page_1.png)
+
+### Analysis
+![Analysis](images/dashboard_page_2.png)
